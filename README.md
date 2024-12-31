@@ -1,3 +1,7 @@
+## Notice
+
+The Xera project is no longer supported. Please switch to [Bixa](https://github.com/bixacloud/bixa), a completely new version of Xera that is regularly updated and maintained. Bug fixes and improvements are actively applied to ensure better performance and functionality.
+
 <div align="center">
     <img src="assets/default/img/xera.png">
 </div>
